@@ -1,4 +1,8 @@
 //Author-SABVA JAY DILIPBHAI
+//Time Complexity
+//Begining ->O(n)
+//Position ->O(n-p)
+//Ending ->O(1)
 #include<iostream>
 using namespace std;
 int main()
